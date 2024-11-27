@@ -3,7 +3,6 @@ title: Home
 layout: base.njk
 ---
 
-# Dr. B's 11ty model site
-Welcome to this simple example website for developing an 11ty project.
-
+# Lyndon's 11ty site preview
+Trying to learn the process for creating and developing an 11ty project.
 
